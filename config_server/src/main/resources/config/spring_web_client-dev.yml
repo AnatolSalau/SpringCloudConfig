@@ -1,2 +1,4 @@
 properties:
    test2: addition property from dev profile
+server:
+  port: 8081

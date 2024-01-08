@@ -1,2 +1,4 @@
 properties:
    test1: default profile property
+server:
+  port: 8081
