@@ -10,3 +10,6 @@ entry point:
 
 ![](postman_dev-profile.png)
 
+Project structure
+![](ProjectStructure.png)
+
