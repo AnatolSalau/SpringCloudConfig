@@ -24,5 +24,4 @@ public class SpringWebClientApplication {
             System.out.println("propertiesTest1 : " + applicationContext.getEnvironment().getProperty("properties.test1", ""));
             System.out.println("propertiesTest2 : " + applicationContext.getEnvironment().getProperty("properties.test2", ""));
       }
-      //
 }
